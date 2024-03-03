@@ -1,0 +1,311 @@
+*{
+    margin:10px;
+    padding:0px;
+    margin-bottom: 10px;
+    
+    
+}
+    ul{ 
+
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+ul li a{
+    text-decoration: none;
+    color:white;
+}
+.header{
+     
+        background-color: rgb(77, 11, 182); 
+        margin-bottom: 40px;
+        padding-bottom: 40px;
+}
+
+.photo img{
+    border-radius: 50%;
+}
+
+ul li.box a{
+    background-color:white ;
+    padding:8px 22px;
+    border-radius: 30px;
+    color: blue;
+}
+ul li.arrange a{
+    padding-left: 400px;
+}
+ul li.set a{
+    padding-right: 100px;
+}
+ul li.do a{
+    padding-right: 780;
+}
+.title{
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: 10px;
+}
+
+
+.subhead a{
+    
+    margin-left: 550px;
+    text-align: center;
+    height: 20px;
+    width: 15%;
+    border-radius: 40px;
+      color:black;
+    padding: 8px 32px;
+    background-color: white;
+
+}
+.subhead a{
+    text-decoration: none;
+    padding-top: 6px;  
+        
+}
+.body{
+    background-color: white;
+    height: 500px;
+}
+.part2h1{
+    text-align: center;
+    color:rgb(114, 19, 203);
+    font-size: 30px;
+    
+}
+    
+.para{
+    padding-top: 43px;
+    padding-left: 700px;
+    color:black;
+    text-align: left;
+    padding-right: 210px;
+
+}
+.para2{
+    padding-left: 700px;
+    color:black;
+    text-align: left;
+    padding-bottom: 15%;
+    padding-right: 210px; 
+}
+
+input[type="text"], textarea{
+background-color: black;
+padding:12px 100px;
+border-radius: 40px;
+border: none;
+
+
+}
+
+.image{
+    
+    position: absolute;
+    top: 550px;
+}
+.img2 img{
+ position:absolute;
+ top:60px;
+left: 300px;
+border-radius: 50%;
+
+}
+
+
+.part3{
+    background-color: rgb(78, 21, 193);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+.h1{
+    text-align: center;
+    font-size: 40px;
+    color:white ;
+    padding-top: 30px;
+    padding-bottom: 60px;
+
+}
+.container{
+    display:flex;
+    justify-content: space-evenly;
+    padding-bottom: 150px;
+    
+    
+}
+.boxes{
+    height:320px;
+    width:20%;
+    flex-direction: column;
+    
+    
+}
+#box1
+{
+    background-color: white;
+    
+}
+#box2{
+    background-color: white;
+}
+#box3{
+    background-color: white;
+}
+#box4{
+    background-color: white;
+}
+#box1 img{
+    padding-left: 10px;
+    position: absolute;
+}
+#box2 img{
+    padding-left: 10px;
+    padding-bottom: 20px;
+    position: absolute;
+}
+#box3 img{
+    padding-left: 10px;
+    position: absolute;
+}
+#box4 img{
+    padding-left: 10px;
+    position: absolute;
+}
+.word1{
+    position: absolute;
+    padding-top: 200px;
+    font-size: 20px;
+}
+.word2{
+    position: absolute;
+    padding-top: 200px;
+    font-size: 20px;
+}
+.word3{
+    position: absolute;
+    padding-top: 200px;
+    font-size: 20px;
+
+}
+.word4{
+    position: absolute;
+    padding-top: 200px;
+    font-size: 20px;
+}
+.next1{
+    position: absolute;
+    padding-top: 220px;
+    color: grey;
+}
+.next2{
+    position: absolute;
+    padding-top: 220px;
+    color: grey;
+}
+.next3{
+    position: absolute;
+    padding-top: 220px;
+    color: grey;
+}
+.next4{
+    position: absolute;
+    padding-top: 220px;
+    color: grey;
+}
+.button1{
+    position: absolute;
+    top:1425px;
+    left: 144px;
+    background-color: rgb(78, 21, 193);;
+    padding:8px 22px;
+    border-radius: 30px;
+    color:white;
+    
+    
+}
+.button2{
+    position: absolute;
+    top:1425px;
+    left: 445px;
+    background-color:rgb(78, 21, 193);;
+    padding:8px 22px;
+    border-radius: 30px;
+    color: white;
+    
+}
+.button3{
+    position: absolute;
+    top:1425px;
+    right: 445px;
+    background-color:rgb(78, 21, 193);;
+    padding:8px 22px;
+    border-radius: 30px;
+    color: white;
+}
+.button4{
+    position: absolute;
+     top:1425px;
+     right: 145px;
+    background-color:rgb(78, 21, 193);;
+    padding:8px 22px;
+    border-radius: 30px;
+    color: white;
+}
+.button1 a{
+    text-decoration: none;
+    color: white;
+}
+.button2 a{
+        text-decoration: none;
+        color: white;
+}
+.button3 a{
+    text-decoration: none;
+    color: white;
+}
+.button4 a{
+    text-decoration: none;
+    color: white;
+}
+hr.new{
+    border: 1px solid black;
+}
+.headings{
+    color:white;
+    text-align: left;
+    font-size: 30px;
+    padding-left: 30px;
+}
+.para3{
+    color:white;
+    text-align: left;
+    padding-right: 910px;
+    padding-left: 30px;
+}
+  
+.icon{
+    justify-content: space-between;
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+.fa-location-dot{
+    color: red;
+    
+    
+    
+}
+
+.footer{
+    background-color: white;
+    text-align: center;
+    color:black
+}
